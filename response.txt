@@ -1,2 +1,2 @@
 **TypeScript Challenge:** [CodeSandbox Link](https://codesandbox.io/p/sandbox/iba-typescript-forked-2l4vfk)
-**Frontend Challenge:** [GitHub Repository Link]()
+**Frontend Challenge:** [GitHub Repository Link](https://github.com/a0937027831/implement-vue.git)
